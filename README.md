@@ -16,7 +16,7 @@
 
 ## Results
 
-### What Should Steve Advise His Parents TO Invest In? 
+### What Should Steve Advise His Parents To Invest In? 
 
 -   There are HUGE differences between 2017 and 2018 concerning the twelve (12) stocks in question.  Please refer to the same afore mentioned Excel Sheet "All Stocks Analysis."  To clarify we are looking at stocks for tickers AY, CSIQ, DQ, ENPH, FSLR, HASI, JKS, RUN, SEDG, SPWR, TERP, and VSLR.  After running the analysis for year 2017 e see we are mostly in the green for all stocks.  DQ experienced almost a 200% return for investments made.  Which is a large return.  TERP experienced a loss of 7.21% making it one (1) of two (2) stocks that lost money from initial investment. 
 
